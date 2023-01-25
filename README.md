@@ -1,4 +1,4 @@
-# Redes e Comunicação de Dados 2021-2022 - Engenharia Informática
+# Redes e Comunicação de Dados 2022-2023 - Engenharia Informática
 *Conteudos da Unidade Curricular de Redes de Computadores em exclusivo no curso de ***Engenharia Informática 1º ano*** do IADE/Universidade Europeia*
 
 O objectivo da cadeira é dotar os alunos de conhecimentos da concepção das componentes protocolares das redes de computadores, bem como de algumas componentes práticas de redes TCP/IP e de equipamentos activos de rede.
@@ -31,7 +31,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 -	IPv6 e serviços (DNSv6 e DHCPv6)
 -	IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc)
 
-*Slides disponiveis no Canvas.*
+*Slides com conteudos disponiveis no Canvas*
 
 ### Aulas Práticas:
 - [Laboratórios práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing em máquinas virtuais e Cisco Packet Tracer)
@@ -94,6 +94,13 @@ De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competênc
 Nesta UC são instrumentos da avaliação contínua, o Trabalho Teórico (15%) individual que inclui apresentação à turma, os Trabalhos Práticos (45%) em grupo que no trabalho final inclui apresentação e o teste escritos final. 
 
 **Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos. 
+
+**Nota Relevante II:** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final.
+
+**Nota Relevante III:** Os alunos que continuem no sistema de Avaliação Continua e que, por motivo de terem más notas em elementos de avaliação já porteriormente aos 30 dias antes da última aula, vão para Exame de Recurso não podendo passar a Avaliação Final.
+
+**Nota Relevante IV:** Os alunos que, estando em Avaliação Continua, não obtenham o número de presenças obrigatórios, passam para Exame de Recuso não podendo passar a Avaliação Final.
+
 
 Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 50% nos casos excecionados no regulamento.
 
