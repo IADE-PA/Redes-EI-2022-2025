@@ -23,7 +23,8 @@ A distribuição estará disponível [aqui](https://docs.google.com/spreadsheets
 
 **A análise deve basear-se sobre o estudo ou implementação descrita**, podendo ser útil verificar outros papers referenciados. É importante para a avaliação que o aluno exponha exatamente o que é relevante do paper, expondo ainda o seu ponto de vista sobre o que apresenta. Não é necessário nenhum relatório.
 
-Algumas [dicas](https://github.com/pmrosa-classes/ComputerNetworks/edit/main/TrabT-dicas.md) sobre como analisar os papers adequadamente.
+Algumas [dicas](https://github.com/pmrosa-classes/Redes-EI-2022-2023
+/edit/main/TrabT-dicas.md) sobre como analisar os papers adequadamente.
 
 Critérios de avaliação dos papers:
 - 5% - Apresentação do **objetivo** do paper e devido enquadramento.
