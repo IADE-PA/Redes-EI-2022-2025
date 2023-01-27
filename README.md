@@ -131,13 +131,13 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4
 
 ## Resumo do Calendário da UC
 *(em atualização)*
-- até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos
+- até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos (ver tarefa necessária para preencher)
 - até 12 de fevereiro - Publicação [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true) da distribuição dos temas e datas de apresentação
 - até 10 de fevereiro - Constituição dos grupos (ver tarefa necessária para preencher)
 - a partir de 20 de fevereiro iniciam-se as apresentações dos trabalhos teóricos 
-- até 14 de abril - Trabalho de Routing I - Ponderação: 7,5%
-- até 28 de abril - Trabalho de Routing II - Ponderação: 7,5%
-- até 4 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 5%
+- até 31 de março - Trabalho de Routing I - Ponderação: 7,5%
+- até 21 de abril - Trabalho de Routing II - Ponderação: 7,5%
+- até 5 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 5%
 - até 19 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 25%
 - semana de 22 e 26 de maio - Apresentações dos Trabalhos Cisco Packet Tracer / IoT 
 
@@ -146,14 +146,4 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4
 - Engenharia de Redes Informáticas, Edmundo Monteiro, Fernando Boavida, Editora FCA
 
 ## Log
-- 2022.07.01: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1200574372&single=true) as notas finais de Avaliação Continua.
-- 2022.07.01: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1428842774&single=true) as notas dos Exames
-- 2022.05.20: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1889860247&single=true) as classificações do Trabalho Prático de Captura de Tráfego
-- 2022.04.06: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1944461714&single=true) as classificações do Trabalho Prático Routing II
-- 2022.05.05: Trabalho Prático de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabP-CapturaPacotes.md)
-- 2022.05.01: Laboratório de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md)
-- 2022.04.18: Trabalho Prático Routing II já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabP-RoutingII.md)
-- 2022.04.06: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=271380393&single=true) as classificações do Trabalho Prático Routing I
-- 2022.03.22: Trabalho Prático Routing I já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/RoutingI-Exercicio.md)
-- 2022.03.16: Laboratório de Routing II/Firewall já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/RoutingII.md)
-- 2022.03.04: A contituição dos grupos já está disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=592821258&single=true) 
+- 2023.01.27: Disponibilização do Repositório.
