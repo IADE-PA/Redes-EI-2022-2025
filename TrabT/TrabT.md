@@ -34,6 +34,54 @@ Critérios de avaliação dos papers:
 - 20% - Apresentação de comentários críticos e conclusões do aluno.
 
 Alguns exemplos de papers aceites (que podem ser escolhidos mas não deve servir de limitação):
+
+Called function identification of IoT devices by network traffic analysis	https://dl.acm.org/doi/10.1145/3412841.3441951
+User Perceptions of Smart Home IoT Privacy	https://dl.acm.org/doi/10.1145/3274469
+BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals	https://www.ndss-symposium.org/ndss-paper/badbluetooth-breaking-android-security-mechanisms-via-malicious-bluetooth-peripherals/
+Smart Automations for Everybody: When IoT Meets Visual Programming	https://dl.acm.org/doi/10.1145/3423423.3423470
+A WiFi-Slicing MANO Solution to Enable Elastic WiFi-sharing Communication Service End-to-End Provision	https://dl.acm.org/doi/10.1145/3412841.3441986
+Enumerating Active IPv6 Hosts for Large-Scale Security Scans via DNSSEC-Signed Reverse Zones	https://ieeexplore.ieee.org/document/8418637
+WiFi Says “Hi!” Back to Strangers!	https://dl.acm.org/doi/10.1145/3422604.3425951
+Health monitoring system in a smart home	https://dl.acm.org/doi/10.1145/3368756.3369102
+Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption	https://dl.acm.org/doi/10.1145/3387514.3405882
+Threat landscape for smart grid systems	https://dl.acm.org/doi/10.1145/3407023.3409229
+Delay is Not an Option: Low Latency Routing in Space	https://dl.acm.org/doi/10.1145/3286062.3286075
+Smart Home Technologies: A Preliminary Review	https://dl.acm.org/doi/10.1145/3301551.3301575
+Internet of Personalized and Autonomous Things (IoPAT): Smart Homes Case Study	https://dl.acm.org/doi/10.1145/3277893.3277901
+Good vs. Evil: Investigating the Effect of Game Premise in a Smart Home Security Educational Game	https://dl.acm.org/doi/10.1145/3383668.3419887
+Experimentation and 5G KPI measurements in the 5GENESIS platforms	https://dl.acm.org/doi/10.1145/3472771.3472776
+A countermeasure against relay attack in NFC payment	https://dl.acm.org/doi/10.1145/3018896.3025144
+Smart City Concepts and Dimensions	https://dl.acm.org/doi/10.1145/3377170.3377189
+User-defined interaction for smart homes: voice, touch, or mid-air gestures?	https://dl.acm.org/doi/10.1145/3365610.3365624
+Application of Blockchain Technology in Oil and Gas Industry	https://dl.acm.org/doi/10.1145/3460537.3460538
+Data security of smart cities	https://dl.acm.org/doi/abs/10.1145/3286606.3286866
+Performance Analysis of Compressed Block Acknowledgment in IEEE 802.11ax	https://dl.acm.org/doi/10.1145/3345770.3356735
+Evolution of Smart Homes for the Elderly	https://dl.acm.org/doi/10.1145/3041021.3054928
+Integrating smart city applications in 5G networks	https://dl.acm.org/doi/abs/10.1145/3231053.3231055
+Traffic Lights Control using Wireless Sensors Networks	https://dl.acm.org/doi/abs/10.1145/3286606.3286791
+Data security of smart cities	https://dl.acm.org/doi/abs/10.1145/3286606.3286866
+Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption	https://dl.acm.org/doi/10.1145/3387514.3405882
+Citizen participation in smart cities: a survey	https://dl.acm.org/doi/10.1145/3368756.3368976
+People logistics in smart cities	https://dl.acm.org/doi/10.1145/3239546
+Artificial Intelligence in Smart Cities: Systematic Literature Network Analysis	https://dl.acm.org/doi/10.1145/3326365.3326400
+On Developing Smart Transportation Applications in Fog Computing Paradigm	https://dl.acm.org/doi/10.1145/2989275.2989286
+Multimodal Interaction for Accessible Smart Homes	https://dl.acm.org/doi/10.1145/3218585.3218595
+Smart-Phones Attacking Smart-Homes	https://dl.acm.org/doi/10.1145/2939918.2939925
+Enhancing the experience of multiplayer shooter games via advanced lag compensation	https://dl.acm.org/doi/10.1145/3204949.3204971
+Integrating smart city applications in 5G networks	https://dl.acm.org/doi/abs/10.1145/3231053.3231055
+Threat Landscape for Smart Grid Systems	https://dl.acm.org/doi/10.1145/3407023.3409229
+Can Future Wireless Networks Detect Fires?	https://dl.acm.org/doi/10.1145/3408308.3427978
+Smart Cities Connected and Autonomous Vehicles Readiness Index	https://dl.acm.org/doi/abs/10.1145/3357492.3358631
+Preventing Failures of Cooperative Maneuvers Among Connected and Automated Vehicles	https://dl.acm.org/doi/10.1145/3479239.3485721
+Use of Intelligent Voice Assistants by Older Adults with Low Technology Use	https://dl.acm.org/doi/10.1145/3373759
+Preserving Privacy in Smart Homes: A Socio-Cultural Approach	https://www.researchgate.net/publication/324660244_Preserving_Privacy_in_Smart_Homes_A_Socio-Cultural_Approach
+Towards a Resilient Smart Home	https://dl.acm.org/doi/10.1145/3229565.3229570
+Intelligent Vehicle Collision Avoidance System Using 5G-Enabled Drone Swarms	https://dl.acm.org/doi/10.1145/3414045.3415938
+Applications of blockchain in smart cities	https://dl.acm.org/doi/abs/10.1145/3368691.3368726
+WiFi, LTE, or Both? Measuring Multi-Homed Wireless Internet Performance	https://dl.acm.org/doi/10.1145/2663716.2663727
+TV home-box based IoT for smart home	https://dl.acm.org/doi/10.1145/3175628.3175634
+Improving media streaming services for train passengers with 5G	https://dl.acm.org/doi/10.1145/3391614.3399399
+
 - Improving media streaming services for train passengers with 5G - https://dl.acm.org/doi/10.1145/3391614.3399399
 - Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption - https://dl.acm.org/doi/10.1145/3387514.3405882
 - Integrating Smart City Applications in 5G Networks - https://doi.org/10.1145/3231053.3231055
