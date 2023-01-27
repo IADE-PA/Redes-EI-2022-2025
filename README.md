@@ -101,7 +101,7 @@ Consulte o [Enunciado](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob
 
 Importante escolher até **10 de fevereiro**.
 
-Depois de distribuídos os temas (até 12 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true).
+Depois de distribuídos os temas (até 12 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=467007833&single=true).
 
 As apresentações começam na semana de 20 de fevereiro.
 
