@@ -93,24 +93,26 @@ Nesta UC são instrumentos da avaliação contínua:
 
 **V** Os alunos deverão ter uma taxa de presenças de 70% nas aulas ou 40% nos casos excecionados no regulamento.
 
-### Elementos da Avaliação Continua 
+### 2. Elementos da Avaliação Continua 
+
 #### 1. Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
 Consulte o [Enunciado](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
 
-Importante escolher até **18 de fevereiro**.
+Importante escolher até **10 de fevereiro**.
 
-Depois de distribuídos os temas (até 20 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true).
+Depois de distribuídos os temas (até 12 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true).
+
+As apresentações começam na semana de 20 de fevereiro.
 
 #### 2. Trabalhos Práticos (50%)
-Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo).
+Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo, 4 alunos não são aceites).
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
 #### 3. Teste Escrito (35%)
-Teste Escrito unico a realizar na data marcada pela Secretaria Escolar.
 
-
+Teste Escrito unico a realizar na data marcada na calendarização (penultima semana de aulas).
 
 ## Avaliação Final
 
@@ -128,12 +130,12 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Laboratórios Práticos com exercícios práticos para configuração dos equipamentos em simulador Cisco Packet Tracer e exercicios práticos com máquinas virtuais (neste repositório)
 
 ## Discord
-Poderá ser util juntarem-se ao Discord da cadeira: https://discord.gg/u8GEzwNV (invite criado em 27.01.2023).
+Deverá ser util juntarem-se ao Discord da cadeira: https://discord.gg/u8GEzwNV (invite criado em 27.01.2023).
 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
 
 ## Grupos
-Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4 alunos não será admitido em nenhuma situação) e deve ser preenchida a tarefa respetiva no Canvas até dia xx de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
+Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4 alunos não será admitido em nenhuma situação) e deve ser preenchida a tarefa respetiva no Canvas até dia 10 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
 
 **A contituição dos grupos será disponibilizada** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=592821258&single=true) 
 
