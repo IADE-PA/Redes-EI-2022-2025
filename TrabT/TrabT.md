@@ -54,18 +54,16 @@ Alguns exemplos de papers aceites (que podem ser escolhidos mas não deve servir
 - Application of Blockchain Technology in Oil and Gas Industry	https://dl.acm.org/doi/10.1145/3460537.3460538
 - Data security of smart cities	https://dl.acm.org/doi/abs/10.1145/3286606.3286866
 - Performance Analysis of Compressed Block Acknowledgment in IEEE 802.11ax	https://dl.acm.org/doi/10.1145/3345770.3356735
-Evolution of Smart Homes for the Elderly	https://dl.acm.org/doi/10.1145/3041021.3054928
-Integrating smart city applications in 5G networks	https://dl.acm.org/doi/abs/10.1145/3231053.3231055
-Traffic Lights Control using Wireless Sensors Networks	https://dl.acm.org/doi/abs/10.1145/3286606.3286791
-Citizen participation in smart cities: a survey	https://dl.acm.org/doi/10.1145/3368756.3368976
-People logistics in smart cities	https://dl.acm.org/doi/10.1145/3239546
-Artificial Intelligence in Smart Cities: Systematic Literature Network Analysis	https://dl.acm.org/doi/10.1145/3326365.3326400
-On Developing Smart Transportation Applications in Fog Computing Paradigm	https://dl.acm.org/doi/10.1145/2989275.2989286
-Multimodal Interaction for Accessible Smart Homes	https://dl.acm.org/doi/10.1145/3218585.3218595
-Smart-Phones Attacking Smart-Homes	https://dl.acm.org/doi/10.1145/2939918.2939925
-Enhancing the experience of multiplayer shooter games via advanced lag compensation	https://dl.acm.org/doi/10.1145/3204949.3204971
-Integrating smart city applications in 5G networks	https://dl.acm.org/doi/abs/10.1145/3231053.3231055
-Threat Landscape for Smart Grid Systems	https://dl.acm.org/doi/10.1145/3407023.3409229
+- Evolution of Smart Homes for the Elderly	https://dl.acm.org/doi/10.1145/3041021.3054928
+- Integrating smart city applications in 5G networks	https://dl.acm.org/doi/abs/10.1145/3231053.3231055
+- Traffic Lights Control using Wireless Sensors Networks	https://dl.acm.org/doi/abs/10.1145/3286606.3286791
+- Citizen participation in smart cities: a survey	https://dl.acm.org/doi/10.1145/3368756.3368976
+- People logistics in smart cities	https://dl.acm.org/doi/10.1145/3239546
+- Artificial Intelligence in Smart Cities: Systematic Literature Network Analysis	https://dl.acm.org/doi/10.1145/3326365.3326400
+- On Developing Smart Transportation Applications in Fog Computing Paradigm	https://dl.acm.org/doi/10.1145/2989275.2989286
+- Smart-Phones Attacking Smart-Homes	https://dl.acm.org/doi/10.1145/2939918.2939925
+- Enhancing the experience of multiplayer shooter games via advanced lag compensation	https://dl.acm.org/doi/10.1145/3204949.3204971
+- Threat Landscape for Smart Grid Systems	https://dl.acm.org/doi/10.1145/3407023.3409229
 Can Future Wireless Networks Detect Fires?	https://dl.acm.org/doi/10.1145/3408308.3427978
 Smart Cities Connected and Autonomous Vehicles Readiness Index	https://dl.acm.org/doi/abs/10.1145/3357492.3358631
 Preventing Failures of Cooperative Maneuvers Among Connected and Automated Vehicles	https://dl.acm.org/doi/10.1145/3479239.3485721
@@ -85,7 +83,6 @@ https://dl.acm.org/doi/10.1145/3387514.3405882
 - Good vs. Evil: Investigating the Effect of Game Premise in a Smart Home Security Educational Game - https://dl.acm.org/doi/10.1145/3383668.3419887
 - Charting the Atack Surface of Trigger-Action IoT Platforms - https://dl.acm.org/doi/10.1145/3319535.3345662
 - Geo-locating Drivers: A Study of Sensitive Data Leakage in Ride-Hailing Services - https://www.ndss-symposium.org/ndss-paper/geo-locating-drivers-a-study-of-sensitive-data-leakage-in-ride-hailing-services/
-- Traffic Lights Control using Wireless Sensors Networks - https://dl.acm.org/doi/abs/10.1145/3286606.3286791
 - Improving media streaming services for train passengers with 5G - https://dl.acm.org/doi/10.1145/3391614.3399399
 - Smart Cities Connected and Autonomous Vehicles Readiness Index - https://dl.acm.org/doi/10.1145/3357492.3358631
 - Internet of Things Security: Challenges and Perspectives - https://dl.acm.org/doi/10.1145/3018896.3056784
@@ -102,7 +99,6 @@ https://dl.acm.org/doi/10.1145/3387514.3405882
 -	Consumer Smart Homes: Where We Are andWhere We Need to Go - https://dl.acm.org/doi/abs/10.1145/3301293.3302371
 -	Multimodal Interaction for Accessible Smart Homes - https://dl.acm.org/doi/10.1145/3218585.3218595
 -	Smart Cities Connected and Autonomous Vehicles Readiness Index - https://dl.acm.org/doi/abs/10.1145/3357492.3358631
--	Traffic Lights Control using Wireless Sensors Networks - https://dl.acm.org/doi/abs/10.1145/3286606.3286791
 -	Integrating Smart City Applications in 5G Networks - https://dl.acm.org/doi/abs/10.1145/3231053.3231055
 -	SafeWatch: A Wearable Hand Motion Tracking System for Improving Driving Safety - https://ieeexplore.ieee.org/document/7946880
 
