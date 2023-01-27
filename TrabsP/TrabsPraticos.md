@@ -1,6 +1,6 @@
 # Trabalhos Práticos (50%)
 
-Os trabalhos práticos são efetuados em [grupo](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=592821258&single=true).
+Os trabalhos práticos são efetuados em grupo.
 
 Consulte os enunciados e datas de entrega de cada uma das 4 componentes:
 
