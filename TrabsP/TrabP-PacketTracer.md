@@ -1,4 +1,4 @@
-# Trabalho Prático - Packet Tracert Networking/IoT (20%)
+# Trabalho Prático - Packet Tracert Networking/IoT (27,5%)
 
 *Este trabalho prático deve ser realizado no simulador Cisco Packet Tracer utilizado nas aulas práticas*
 
@@ -60,6 +60,7 @@ VLAN 100 - srv06 – 10.10.11.13 - Servidor de Registo de IoT - para todos os eq
 -	Gerir a **temperatura** interna em cada edifício através de um display adequado.
 -	Os edifícios têm **sistema de deteção de incêndios** em todos os pisos. Caso seja detetado um incendio deve tocar uma **sirene** e **ligado o sistema de extinção de incêndios**.
 -	Os edifícios têm **sensores de CO2**. Uma vez detetado um valor superior a 75% as **janelas devem ser abertas** e a **extração de ar deve ser ligada**. Todo o sistema deve ser desligado quando voltarem a valores inferior a 60%.
+-	Os edifícios têm **sensores de mónoxido de carbono**. Uma vez detetado as **janelas devem ser abertas** e a **extração de ar deve ser ligada**
 -	As portas de entrada dos edifícios têm **controlo por RFID**. Só os utilizadores com cartões válidos devem poder entrar (exemplificar com alguns casos). Sempre que algum cartão inválido seja lido, deve ser ligada uma sirene.
 12.	Criar uma rede externa, que simula o acesso à Internet, interligando com o router da empresa. Devem ser criados dois websites: portal.pt e google.pt (que deverão existir nos servidores de DNS). Deve ser configurada a interligação dessa rede com o router da empresa através de uma rede de 30 bits.
 
@@ -73,9 +74,8 @@ VLAN 100 - srv06 – 10.10.11.13 - Servidor de Registo de IoT - para todos os eq
 - Verificar data de entrega/apresentação no calendário da cadeira.
 
 **Entregáveis:**
-- Apresentação em PowerPoint/GoogleSlides/etc
 - Descrição da empresa;
 - Ficheiro(s) packet tracer;
-- Notas adicionais para a correta avaliação por parte dos Docentes.
+- Notas adicionais para a correta avaliação por parte do Docente.
 
-**Deve entregar um unico ficheiro ZIP com a identificação do grupo e do trabalhoo: Gxx-TrabPacketTracerI.zip**
+**Deve entregar um unico ficheiro ZIP, na respetiva tarefa no Canvas, com a identificação do grupo e do trabalhoo: Gxx-TrabPacketTracerI.zip**
