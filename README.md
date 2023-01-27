@@ -44,19 +44,19 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 | 01 | 30 jan | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
 | 02 | 06 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte; ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***  |
 | 03 | 13 fev | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
-| 04 | 20 fev | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4; **Entrega do trabalho Routing-I** |
+| 04 | 20 fev | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4; |
 | 05 | 27 fev | TCP/IP endereçamento IPv4 ; ***Laboratório 3 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
-| 06 | 06 mar | TCP/IP endereçamento IPv4 (inclui subnetting); **Entrega do trabalho Routing-II**|
+| 06 | 06 mar | TCP/IP endereçamento IPv4 (inclui subnetting); |
 | 07 | 13 mar | TCP/IP endereçamento IPv4 (inclui subnetting); Inicio do estudo de alguns Protocolos TCP/IP |
 | 08 | 20 mar | ***Semana sem aulas*** |
 | 0 | 27 mar | ***Laboratório 4 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** |
 |   | 03 abr | *Páscoa*|
-| 09 | 10 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje; **Entrega Trabalho Captura de pacotes com Wireshark/tcpdump** |
+| 09 | 10 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje; **Entrega do trabalho Routing-I** |
 | 10 | 17 abr | ***Laboratório 5 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
-| 11 | 24 abr | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5|
-| 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
+| 11 | 24 abr | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5; **Entrega do trabalho Routing-II**|
+| 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***| **Entrega Trabalho Captura de pacotes com Wireshark/tcpdump** 
 | 13 | 08 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível)|
-| 14 | 15 mai | **Teste Escrito** |
+| 14 | 15 mai | **Teste Escrito** **Entrega do trabalho final em Packet Tracer Redes/IOT** |
 | 15 | 22 mai | **Apresentações dos trabalhos práticos Networking/IoT** |
 
 ### Sumários
@@ -135,11 +135,11 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4
 - até 12 de fevereiro - Publicação [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true) da distribuição dos temas e datas de apresentação
 - até 10 de fevereiro - Constituição dos grupos (ver tarefa necessária para preencher)
 - a partir de 20 de fevereiro iniciam-se as apresentações dos trabalhos teóricos 
-- até 25 de fevereiro - Trabalho de Routing I - Ponderação: 7,5%
-- até 10 de março - Trabalho de Routing II - Ponderação: 7,5%
-- até 6 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 5%
-- até 20 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 25%
-- 25 e 26 de maio - Apresentações dos Trabalhos Cisco Packet Tracer / IoT 
+- até 14 de abril - Trabalho de Routing I - Ponderação: 7,5%
+- até 28 de abril - Trabalho de Routing II - Ponderação: 7,5%
+- até 4 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 5%
+- até 19 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 25%
+- semana de 22 e 26 de maio - Apresentações dos Trabalhos Cisco Packet Tracer / IoT 
 
 ## Bibliografia
 - Computer Networks, Tanenbaum, Andrew S., Prentice Hall http://books.google.pt/books?id=Pd-z64SJRBAC
