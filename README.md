@@ -142,7 +142,7 @@ A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/
 ## Resumo do Calendário da UC
 *(em atualização)*
 - até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos (ver tarefa necessária para preencher)
-- até 12 de fevereiro - Publicação [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true) da distribuição dos temas e datas de apresentação
+- até 12 de fevereiro - Publicação [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=467007833&single=true) da distribuição dos temas e datas de apresentação
 - até 10 de fevereiro - Constituição dos grupos (ver tarefa necessária para preencher)
 - a partir de 20 de fevereiro iniciam-se as apresentações dos trabalhos teóricos 
 - até 31 de março - Trabalho de Routing I - Ponderação: 7,5%
