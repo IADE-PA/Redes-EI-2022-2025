@@ -57,7 +57,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 | 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
 | 13 | 08 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível)|
 | 14 | 15 mai | **Teste Escrito** |
-| 15 | 22 mai | Apresentações dos trabalhos práticos Networking/IoT|
+| 15 | 22 mai | **Apresentações dos trabalhos práticos Networking/IoT** |
 
 ### Sumários
 Os sumários das aulas podem ser consultados *aqui* (brevemente disponível)
