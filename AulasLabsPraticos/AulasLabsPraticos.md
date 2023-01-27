@@ -17,21 +17,19 @@
 Para criar conta: Escolher Login, introduzir o endereço de mail e prosseguir. Quando for detetado que o mail não está registado aparece uma opção `Create New Account`. Esta conta será a mesma que deve ser utilizada no inicio do programa, depois de instalado.
 Após criação da conta pode efetuar o download [aqui](https://www.netacad.com/portal/resources/packet-tracer)
 
-***Em alternativa fazer nos seguintes links o download: [Windows 64bits](https://filesender.fccn.pt/?s=download&token=a5e24604-34f4-40e7-8540-5791b298e66f) | [Mac OS 64bit](https://filesender.fccn.pt/?s=download&token=17671cd2-f472-48c6-8dff-37a0c964869c).*** Necessita na mesma de uma conta na NetAcad da Cisco. Link disponivel até 25 de março.
-
-Em Fev/2022 os requisitos e versões disponiveis eram as seguintes:
+Em Jan/2023 os requisitos e versões disponiveis eram as seguintes:
 
 ```
-To successfully install and run Cisco Packet Tracer 8.1, the following system requirements must be met:
+To successfully install and run Cisco Packet Tracer 8.2, the following system requirements must be met:
 
-Cisco Packet Tracer 8.1 (64 bit):
+Cisco Packet Tracer 8.2 (64 bit):
 Computer with one of the following operating systems: Microsoft Windows 8.1, 10, 11 (64bit), Ubuntu 20.04 LTS (64bit) or macOS 10.14 or newer.
 amd64(x86-64) CPU
 4GB of free RAM
 1.4 GB of free disk space
 
  
-Cisco Packet Tracer 8.1 (32 bit):    
+Cisco Packet Tracer 8.2 (32 bit):    
 Computer with one of the following operating systems: Microsoft Windows 8.1, 10, 11 (32bit)
 x86 compatible CPU
 2GB of free RAM
@@ -40,14 +38,14 @@ x86 compatible CPU
 
 Existem versões para os seguintes sistemas operativos:
 ```
-Windows Desktop Version 8.1.1 English
+Windows Desktop Version 8.2 English
 64 Bit Download
 32 Bit Download
  
-Ubuntu Desktop Version 8.1.1 English
+Ubuntu Desktop Version 8.2 English
 64 Bit Download
 
-macOS Version 8.1.1 English
+macOS Version 8.2 English
 64 bit Download
 ``` 
 
@@ -97,7 +95,7 @@ Informações uteis:
 - Para desligar as máquinas pode fazer `shutdown -h now`; restart `shutdown -r now`
 
 # Laboratórios
-Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/README.md#planeamento-previsto-pode-sofrer-alteraçõesplaneamento) as datas.
+Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/README.md#planeamento-previsto-pode-sofrer-alteraçõesplaneamento) as datas.
 
 ## 1. Laboratório 1: Cisco Packet Tracer I 
 
