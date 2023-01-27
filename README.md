@@ -88,23 +88,29 @@ Teste Escrito unico a realizar na data marcada pela Secretaria Escolar.
 
 ### 4. Regras de Avaliacao Continua / Avaliação Final
 
-De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** publicado em DR a 30 de setembro de 2021, os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui dois momentos de avaliação:*
-- *A realização de vários instrumentos de avaliação durante o período letivo, os quais devem, obrigatoriamente, representar um mínimo de 30 % e um máximo de 70 %, na ponderação para o cálculo da classificação final da unidade curricular;*
-- *A realização de uma prova final — teste escrito, coincidente em calendário letivo com a época normal da avaliação final.*
-*Sendo a avaliação contínua aquela que, com caráter regular e constante, decorre durante todo o período letivo e reflete uma permanente interação entre o docente e o estudante.*
+De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** (REG-046lV08), os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui vários momentos de avaliação:*
 
-Nesta UC são instrumentos da avaliação contínua, o Trabalho Teórico (15%) individual que inclui apresentação à turma, os Trabalhos Práticos (45%) em grupo que no trabalho final inclui apresentação e o teste escritos final. 
+Recorde-se que, segundo o regulamento "*(...)A avaliação contínua é aquela que, com caráter regular e constante, decorre
+durante o período letivo, refletindo uma permanente interação entre o docente e o estudante, através da realização de vários instrumentos de avaliação, executados individualmente e/ou em grupo.*"
 
-**Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos. 
+Sendo assim:
+- Ainda segundo o regulamento: *Os elementos de avaliação utilizados têm de contemplar uma ponderação igual ou superior a 4O% referente à avaliação individual no cálculo da classificação final da unidade curricular*. **Na UC o valor para o teste escrito será de 40%**.
+- A realização do teste escrito será realizado durante as aulas na data marcada na calendarização da UC
+
+Nesta UC são instrumentos da avaliação contínua:
+- o Trabalho Teórico (15%) individual que inclui apresentação à turma
+- os Trabalhos Práticos (45%) em grupo que no trabalho final inclui apresentação
+- o teste escrito final (35%). 
+
+**Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos desde que a média seja de no minimo 8 valores (sem arredondamentos). 
 
 **Nota Relevante II:** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final.
 
 **Nota Relevante III:** Os alunos que continuem no sistema de Avaliação Continua e que, por motivo de terem más notas em elementos de avaliação já porteriormente aos 30 dias antes da última aula, vão para Exame de Recurso não podendo passar a Avaliação Final.
 
-**Nota Relevante IV:** Os alunos que, estando em Avaliação Continua, não obtenham o número de presenças obrigatórios, passam para Exame de Recuso não podendo passar a Avaliação Final.
+**Nota Relevante IV:** Os alunos que, estando em Avaliação Continua, não obtenham o número de presenças obrigatórios, passam para Exame de Recurso não podendo passar a Avaliação Final.
 
-
-Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 50% nos casos excecionados no regulamento.
+Os alunos deverão ter uma taxa de presenças de 70% nas aulas ou 40% nos casos excecionados no regulamento.
 
 Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita, ou outros elementos, sobre a matéria toda lecionada. Esta avaliação final ainda não está completamente definida mas, ou terá também elementos distintos da prova escrita, ou terá 60% do valor teórico/prático escrito (portanto relacionado com os laboratórios e trabalhos práticos).
 
@@ -120,14 +126,14 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Laboratórios Práticos com exercícios práticos para configuração dos equipamentos em simulador Cisco Packet Tracer e exercicios práticos com máquinas virtuais (neste repositório)
 
 ## Discord
-Poderá ser util juntarem-se ao Discord da cadeira: https://discord.gg/HYQnMcuz (invite criado em 16.02.2022).
+Poderá ser util juntarem-se ao Discord da cadeira: https://discord.gg/u8GEzwNV (invite criado em 27.01.2023).
 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
 
 ## Grupos
-Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e deve ser preenchida a tarefa respetiva no Canvas até dia 25 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
+Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4 alunos não será admitido em nenhuma situação) e deve ser preenchida a tarefa respetiva no Canvas até dia xx de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
 
-**ATUALIZAÇÃO (20220304): A contituição dos grupos já está disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=592821258&single=true) 
+**A contituição dos grupos será disponibilizada** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=592821258&single=true) 
 
 ## Resumo do Calendário da UC
 *(em atualização)*
