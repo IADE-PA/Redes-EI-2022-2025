@@ -3,7 +3,8 @@
 
 O objectivo da cadeira é dotar os alunos de conhecimentos da concepção das componentes protocolares das redes de computadores, bem como de algumas componentes práticas de redes TCP/IP e de equipamentos activos de rede.
 
-Existem vários trabalhos a serem realizados para alunos em **avaliação continua**. Nas aulas teóricas os alunos deverão escolher um paper de investigação cientifica sobre temas da cadeira (Networking/IoT) e apresentar um resumo oralmente para a turma. Nas aulas práticas existem um cojunto de trabalhos práticos, de acordo com as matérias lecionadas nos laboratórios, incluindo um trabalho final de maior envergadura que consiste em implementar uma rede multi-serviço com divisão de tráfego, incluindo equipamentos ativos de rede, terminais e componentes IoT.
+Existem vários trabalhos a serem realizados para alunos em **avaliação continua**. Nas aulas teóricas os alunos deverão escolher **um paper de investigação cientifica** sobre temas da cadeira (Networking/IoT) e apresentar um resumo oralmente para a turma. Nas aulas práticas existem **um cojunto de trabalhos práticos, de acordo com as matérias lecionadas nos laboratórios**, incluindo um trabalho final de maior envergadura que consiste em implementar uma rede multi-serviço com divisão de tráfego, incluindo equipamentos ativos de rede, terminais e componentes IoT.
+Antes de certas aulas existem também **um conjunto de laboratórios** que devem ser feitos para que possam ser esclarecidas as duvidas durante as aulas. Estes laboratórios estão enquadrados nos trabalhos práticos da unidade curricular.
 
 ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas fora do ambiente de aula***
 
@@ -38,7 +39,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 - Inclui a utilização de máquinas virtuais e do simulador de rede Cisco Packet Tracer (ver [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). Existe um [roteiro](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md) para as aulas Packet Tracer;
 - Apoio a realização do trabalho prático sobre Networking/IoT em Cisco Packet Tracer.
 
-### Planeamento previsto (pode sofrer alterações!)[#planeamento]
+### Planeamento PREVISTO (pode sofrer ALTERAÇÕES!!!)[#planeamento]
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 | 01 | 30 jan | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
@@ -77,22 +78,23 @@ Sendo assim:
 
 Nesta UC são instrumentos da avaliação contínua:
 - o Trabalho Teórico (15%) individual que inclui apresentação à turma
-- os Trabalhos Práticos (45%) em grupo que no trabalho final inclui apresentação
-- o Teste Escrito Final (35%). 
+- os Trabalhos Práticos (50%) em grupo que no trabalho final inclui apresentação
+- o Teste Escrito Individual Final (35%). 
 
-**Nota Muito Importantes:** 
+**Notas Muito Importantes:** 
 
 **I** Não são admitidos à realização da prova escrita de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos desde que a média seja de no minimo 8 valores (sem arredondamentos). 
 
-**II** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final.
+**II** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final. Data indicativa para o fazerem é até **26 de abril**
 
-**Nota Relevante III:** Os alunos que continuem no sistema de Avaliação Continua e que, por motivo de terem más notas em elementos de avaliação já porteriormente aos 30 dias antes da última aula, vão para Exame de Recurso não podendo passar a Avaliação Final.
+**III:** Os alunos que continuem no sistema de Avaliação Continua e que tenham más notas em elementos de avaliação já posteriormente aos 30 dias antes da última aula, vão para Exame de Recurso não podendo passar a Avaliação Final.
 
-**Nota Relevante IV:** Os alunos que, estando em Avaliação Continua, não obtenham o número de presenças obrigatórios, passam para Exame de Recurso não podendo passar a Avaliação Final.
+**IV:** Os alunos que, estando em Avaliação Continua, não obtenham o número de presenças obrigatórios, passam para Exame de Recurso não podendo passar a Avaliação Final.
 
-Os alunos deverão ter uma taxa de presenças de 70% nas aulas ou 40% nos casos excecionados no regulamento.
+**V** Os alunos deverão ter uma taxa de presenças de 70% nas aulas ou 40% nos casos excecionados no regulamento.
 
-### 1. Trabalho Teórico (15%)
+### Elementos da Avaliação Continua 
+#### 1. Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
 Consulte o [Enunciado](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
 
@@ -100,12 +102,12 @@ Importante escolher até **18 de fevereiro**.
 
 Depois de distribuídos os temas (até 20 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true).
 
-### 2. Trabalhos Práticos (45%)
+#### 2. Trabalhos Práticos (50%)
 Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo).
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
-### 3. Teste Escrito (40%)
+#### 3. Teste Escrito (35%)
 Teste Escrito unico a realizar na data marcada pela Secretaria Escolar.
 
 
