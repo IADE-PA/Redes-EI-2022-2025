@@ -62,7 +62,35 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 ### Sumários
 Os sumários das aulas podem ser consultados *aqui* (brevemente disponível)
 
-## Avaliação 
+## Avaliação Continua
+
+### 1. Regras de Avaliacao Continua
+
+De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** (REG-046lV08 retirado do Portal do Docente em 27.01.2023), os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui vários momentos de avaliação*
+
+Recorde-se que, segundo o regulamento "*(...)A avaliação contínua é aquela que, com caráter regular e constante, decorre
+durante o período letivo, refletindo uma permanente interação entre o docente e o estudante, através da realização de vários instrumentos de avaliação, executados individualmente e/ou em grupo.*"
+
+Sendo assim:
+- Ainda segundo o regulamento: *Os elementos de avaliação utilizados têm de contemplar uma ponderação igual ou superior a 4O% referente à avaliação individual no cálculo da classificação final da unidade curricular*. **Na UC o valor para o teste escrito será de 40%**.
+- A realização do teste escrito será realizado durante as aulas na data marcada na calendarização da UC
+
+Nesta UC são instrumentos da avaliação contínua:
+- o Trabalho Teórico (15%) individual que inclui apresentação à turma
+- os Trabalhos Práticos (45%) em grupo que no trabalho final inclui apresentação
+- o Teste Escrito Final (35%). 
+
+**Nota Muito Importantes:** 
+
+**I** Não são admitidos à realização da prova escrita de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos desde que a média seja de no minimo 8 valores (sem arredondamentos). 
+
+**II** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final.
+
+**Nota Relevante III:** Os alunos que continuem no sistema de Avaliação Continua e que, por motivo de terem más notas em elementos de avaliação já porteriormente aos 30 dias antes da última aula, vão para Exame de Recurso não podendo passar a Avaliação Final.
+
+**Nota Relevante IV:** Os alunos que, estando em Avaliação Continua, não obtenham o número de presenças obrigatórios, passam para Exame de Recurso não podendo passar a Avaliação Final.
+
+Os alunos deverão ter uma taxa de presenças de 70% nas aulas ou 40% nos casos excecionados no regulamento.
 
 ### 1. Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
@@ -80,31 +108,9 @@ Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 ### 3. Teste Escrito (40%)
 Teste Escrito unico a realizar na data marcada pela Secretaria Escolar.
 
-### 4. Regras de Avaliacao Continua / Avaliação Final
 
-De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** (REG-046lV08), os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui vários momentos de avaliação:*
 
-Recorde-se que, segundo o regulamento "*(...)A avaliação contínua é aquela que, com caráter regular e constante, decorre
-durante o período letivo, refletindo uma permanente interação entre o docente e o estudante, através da realização de vários instrumentos de avaliação, executados individualmente e/ou em grupo.*"
-
-Sendo assim:
-- Ainda segundo o regulamento: *Os elementos de avaliação utilizados têm de contemplar uma ponderação igual ou superior a 4O% referente à avaliação individual no cálculo da classificação final da unidade curricular*. **Na UC o valor para o teste escrito será de 40%**.
-- A realização do teste escrito será realizado durante as aulas na data marcada na calendarização da UC
-
-Nesta UC são instrumentos da avaliação contínua:
-- o Trabalho Teórico (15%) individual que inclui apresentação à turma
-- os Trabalhos Práticos (45%) em grupo que no trabalho final inclui apresentação
-- o teste escrito final (35%). 
-
-**Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos desde que a média seja de no minimo 8 valores (sem arredondamentos). 
-
-**Nota Relevante II:** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final.
-
-**Nota Relevante III:** Os alunos que continuem no sistema de Avaliação Continua e que, por motivo de terem más notas em elementos de avaliação já porteriormente aos 30 dias antes da última aula, vão para Exame de Recurso não podendo passar a Avaliação Final.
-
-**Nota Relevante IV:** Os alunos que, estando em Avaliação Continua, não obtenham o número de presenças obrigatórios, passam para Exame de Recurso não podendo passar a Avaliação Final.
-
-Os alunos deverão ter uma taxa de presenças de 70% nas aulas ou 40% nos casos excecionados no regulamento.
+## Avaliação Final
 
 Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita, ou outros elementos, sobre a matéria toda lecionada. Esta avaliação final ainda não está completamente definida mas, ou terá também elementos distintos da prova escrita, ou terá 60% do valor teórico/prático escrito (portanto relacionado com os laboratórios e trabalhos práticos).
 
