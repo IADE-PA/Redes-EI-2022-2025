@@ -34,33 +34,33 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 *Slides com conteudos disponiveis no Canvas*
 
 ### Aulas Práticas:
-- [Laboratórios práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing em máquinas virtuais e Cisco Packet Tracer)
-- Inclui a utilização de máquinas virtuais e do simulador de rede Cisco Packet Tracer (ver [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). Existe um [roteiro](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md) para as aulas Packet Tracer;
+- [Laboratórios práticos](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing em máquinas virtuais e Cisco Packet Tracer)
+- Inclui a utilização de máquinas virtuais e do simulador de rede Cisco Packet Tracer (ver [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). Existe um [roteiro](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md) para as aulas Packet Tracer;
 - Apoio a realização do trabalho prático sobre Networking/IoT em Cisco Packet Tracer.
 
 ### Planeamento previsto (pode sofrer alterações!)[#planeamento]
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 | 01 | 30 jan | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
-| 02 | 06 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte; ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***  |
-| 03 | 13 fev | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
+| 02 | 06 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte; ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***  |
+| 03 | 13 fev | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
 | 04 | 20 fev | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4 |
-| 05 | 27 fev | TCP/IP endereçamento IPv4 ; ***Laboratório 3 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
+| 05 | 27 fev | TCP/IP endereçamento IPv4 ; ***Laboratório 3 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
 | 06 | 06 mar | TCP/IP endereçamento IPv4 (inclui subnetting)|
 | 07 | 13 mar | TCP/IP endereçamento IPv4 (inclui subnetting); Inicio do estudo de alguns Protocolos TCP/IP |
 | 08 | 20 mar | ***Semana sem aulas*** |
-| 0 | 27 mar | ***Laboratório 4 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** |
+| 0 | 27 mar | ***Laboratório 4 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** |
 |   | 03 abr | *Páscoa*|
 | 09 | 10 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje|
-| 10 | 17 abr | ***Laboratório 5 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
+| 10 | 17 abr | ***Laboratório 5 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
 | 11 | 24 abr | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5|
-| 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
+| 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
 | 13 | 08 mai | |
 | 14 | 15 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível) |
 | 15 | 22 mai | Apresentações dos trabalhos práticos Networking/IoT|
 
 ### Sumários
-Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/sumarios.md)
+Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/sumarios.md)
 
 ## Avaliação 
 
@@ -72,14 +72,14 @@ Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-cl
 
 ### 1. Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
-Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
+Consulte o [Enunciado](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
 
 Importante escolher até **18 de fevereiro**.
 
 Depois de distribuídos os temas (até 20 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=467007833&single=true).
 
 ### 2. Trabalhos Práticos (45%)
-Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo).
+Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo).
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
@@ -156,10 +156,10 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4
 - 2022.07.01: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1428842774&single=true) as notas dos Exames
 - 2022.05.20: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1889860247&single=true) as classificações do Trabalho Prático de Captura de Tráfego
 - 2022.04.06: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1944461714&single=true) as classificações do Trabalho Prático Routing II
-- 2022.05.05: Trabalho Prático de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabP-CapturaPacotes.md)
-- 2022.05.01: Laboratório de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md)
-- 2022.04.18: Trabalho Prático Routing II já disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabP-RoutingII.md)
+- 2022.05.05: Trabalho Prático de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabP-CapturaPacotes.md)
+- 2022.05.01: Laboratório de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md)
+- 2022.04.18: Trabalho Prático Routing II já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabP-RoutingII.md)
 - 2022.04.06: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=271380393&single=true) as classificações do Trabalho Prático Routing I
-- 2022.03.22: Trabalho Prático Routing I já disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/RoutingI-Exercicio.md)
-- 2022.03.16: Laboratório de Routing II/Firewall já disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/RoutingII.md)
+- 2022.03.22: Trabalho Prático Routing I já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/RoutingI-Exercicio.md)
+- 2022.03.16: Laboratório de Routing II/Firewall já disponível [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/RoutingII.md)
 - 2022.03.04: A contituição dos grupos já está disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=592821258&single=true) 
