@@ -60,7 +60,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 | 15 | 22 mai | Apresentações dos trabalhos práticos Networking/IoT|
 
 ### Sumários
-Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/sumarios.md)
+Os sumários das aulas podem ser consultados *aqui* (brevemente disponível)
 
 ## Avaliação 
 
