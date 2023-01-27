@@ -35,32 +35,28 @@ Critérios de avaliação dos papers:
 
 Alguns exemplos de papers aceites (que podem ser escolhidos mas não deve servir de limitação):
 
-Called function identification of IoT devices by network traffic analysis	https://dl.acm.org/doi/10.1145/3412841.3441951
-User Perceptions of Smart Home IoT Privacy	https://dl.acm.org/doi/10.1145/3274469
-BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals	https://www.ndss-symposium.org/ndss-paper/badbluetooth-breaking-android-security-mechanisms-via-malicious-bluetooth-peripherals/
-Smart Automations for Everybody: When IoT Meets Visual Programming	https://dl.acm.org/doi/10.1145/3423423.3423470
-A WiFi-Slicing MANO Solution to Enable Elastic WiFi-sharing Communication Service End-to-End Provision	https://dl.acm.org/doi/10.1145/3412841.3441986
-Enumerating Active IPv6 Hosts for Large-Scale Security Scans via DNSSEC-Signed Reverse Zones	https://ieeexplore.ieee.org/document/8418637
-WiFi Says “Hi!” Back to Strangers!	https://dl.acm.org/doi/10.1145/3422604.3425951
-Health monitoring system in a smart home	https://dl.acm.org/doi/10.1145/3368756.3369102
-Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption	https://dl.acm.org/doi/10.1145/3387514.3405882
-Threat landscape for smart grid systems	https://dl.acm.org/doi/10.1145/3407023.3409229
-Delay is Not an Option: Low Latency Routing in Space	https://dl.acm.org/doi/10.1145/3286062.3286075
-Smart Home Technologies: A Preliminary Review	https://dl.acm.org/doi/10.1145/3301551.3301575
-Internet of Personalized and Autonomous Things (IoPAT): Smart Homes Case Study	https://dl.acm.org/doi/10.1145/3277893.3277901
-Good vs. Evil: Investigating the Effect of Game Premise in a Smart Home Security Educational Game	https://dl.acm.org/doi/10.1145/3383668.3419887
-Experimentation and 5G KPI measurements in the 5GENESIS platforms	https://dl.acm.org/doi/10.1145/3472771.3472776
-A countermeasure against relay attack in NFC payment	https://dl.acm.org/doi/10.1145/3018896.3025144
-Smart City Concepts and Dimensions	https://dl.acm.org/doi/10.1145/3377170.3377189
-User-defined interaction for smart homes: voice, touch, or mid-air gestures?	https://dl.acm.org/doi/10.1145/3365610.3365624
-Application of Blockchain Technology in Oil and Gas Industry	https://dl.acm.org/doi/10.1145/3460537.3460538
-Data security of smart cities	https://dl.acm.org/doi/abs/10.1145/3286606.3286866
-Performance Analysis of Compressed Block Acknowledgment in IEEE 802.11ax	https://dl.acm.org/doi/10.1145/3345770.3356735
+- Called function identification of IoT devices by network traffic analysis	https://dl.acm.org/doi/10.1145/3412841.3441951
+- User Perceptions of Smart Home IoT Privacy	https://dl.acm.org/doi/10.1145/3274469
+- BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals	https://www.ndss-symposium.org/ndss-paper/badbluetooth-breaking-android-security-mechanisms-via-malicious-bluetooth-peripherals/
+- Smart Automations for Everybody: When IoT Meets Visual Programming	https://dl.acm.org/doi/10.1145/3423423.3423470
+- A WiFi-Slicing MANO Solution to Enable Elastic WiFi-sharing Communication Service End-to-End Provision	https://dl.acm.org/doi/10.1145/3412841.3441986
+- Enumerating Active IPv6 Hosts for Large-Scale Security Scans via DNSSEC-Signed Reverse Zones	https://ieeexplore.ieee.org/document/8418637
+- WiFi Says “Hi!” Back to Strangers!	https://dl.acm.org/doi/10.1145/3422604.3425951
+- Health monitoring system in a smart home	https://dl.acm.org/doi/10.1145/3368756.3369102
+- Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption	https://dl.acm.org/doi/10.1145/3387514.3405882
+- Threat landscape for smart grid systems	https://dl.acm.org/doi/10.1145/3407023.3409229
+- Delay is Not an Option: Low Latency Routing in Space	https://dl.acm.org/doi/10.1145/3286062.3286075
+- Smart Home Technologies: A Preliminary Review	https://dl.acm.org/doi/10.1145/3301551.3301575
+- Experimentation and 5G KPI measurements in the 5GENESIS platforms	https://dl.acm.org/doi/10.1145/3472771.3472776
+- A countermeasure against relay attack in NFC payment	https://dl.acm.org/doi/10.1145/3018896.3025144
+- Smart City Concepts and Dimensions	https://dl.acm.org/doi/10.1145/3377170.3377189
+- User-defined interaction for smart homes: voice, touch, or mid-air gestures?	https://dl.acm.org/doi/10.1145/3365610.3365624
+- Application of Blockchain Technology in Oil and Gas Industry	https://dl.acm.org/doi/10.1145/3460537.3460538
+- Data security of smart cities	https://dl.acm.org/doi/abs/10.1145/3286606.3286866
+- Performance Analysis of Compressed Block Acknowledgment in IEEE 802.11ax	https://dl.acm.org/doi/10.1145/3345770.3356735
 Evolution of Smart Homes for the Elderly	https://dl.acm.org/doi/10.1145/3041021.3054928
 Integrating smart city applications in 5G networks	https://dl.acm.org/doi/abs/10.1145/3231053.3231055
 Traffic Lights Control using Wireless Sensors Networks	https://dl.acm.org/doi/abs/10.1145/3286606.3286791
-Data security of smart cities	https://dl.acm.org/doi/abs/10.1145/3286606.3286866
-Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption	https://dl.acm.org/doi/10.1145/3387514.3405882
 Citizen participation in smart cities: a survey	https://dl.acm.org/doi/10.1145/3368756.3368976
 People logistics in smart cities	https://dl.acm.org/doi/10.1145/3239546
 Artificial Intelligence in Smart Cities: Systematic Literature Network Analysis	https://dl.acm.org/doi/10.1145/3326365.3326400
@@ -83,9 +79,8 @@ TV home-box based IoT for smart home	https://dl.acm.org/doi/10.1145/3175628.3175
 Improving media streaming services for train passengers with 5G	https://dl.acm.org/doi/10.1145/3391614.3399399
 
 - Improving media streaming services for train passengers with 5G - https://dl.acm.org/doi/10.1145/3391614.3399399
-- Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption - https://dl.acm.org/doi/10.1145/3387514.3405882
+https://dl.acm.org/doi/10.1145/3387514.3405882
 - Integrating Smart City Applications in 5G Networks - https://doi.org/10.1145/3231053.3231055
-- Delay is Not an Option: Low Latency Routing in Space - https://dl.acm.org/doi/10.1145/3286062.3286075
 - Visualization and performance analysis on 5G network slicing for drones - https://dl.acm.org/doi/10.1145/3414045.3416208
 - Good vs. Evil: Investigating the Effect of Game Premise in a Smart Home Security Educational Game - https://dl.acm.org/doi/10.1145/3383668.3419887
 - Charting the Atack Surface of Trigger-Action IoT Platforms - https://dl.acm.org/doi/10.1145/3319535.3345662
