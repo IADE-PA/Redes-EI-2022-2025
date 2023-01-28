@@ -150,8 +150,8 @@ A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/
 - a partir de 20 de fevereiro iniciam-se as apresentações dos trabalhos teóricos 
 - até 31 de março - Trabalho de Routing I - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23226)
 - até 21 de abril - Trabalho de Routing II - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23227)
-- até 5 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23228)
-- até 19 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 25% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23229)
+- até 5 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23228)
+- até 19 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 27,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23229)
 - semana de 22 e 26 de maio - Apresentações dos Trabalhos Cisco Packet Tracer / IoT 
 
 ## Bibliografia
