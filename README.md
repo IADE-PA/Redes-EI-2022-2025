@@ -3,8 +3,11 @@
 
 O objectivo da cadeira é dotar os alunos de conhecimentos da concepção das componentes protocolares das redes de computadores, bem como de algumas componentes práticas de redes TCP/IP e de equipamentos activos de rede.
 
-Existem vários trabalhos a serem realizados para alunos em **avaliação continua**. Nas aulas teóricas os alunos deverão escolher **um paper de investigação cientifica** sobre temas da cadeira (Networking/IoT) e apresentar um resumo oralmente para a turma. Nas aulas práticas existem **um cojunto de trabalhos práticos, de acordo com as matérias lecionadas nos laboratórios**, incluindo um trabalho final de maior envergadura que consiste em implementar uma rede multi-serviço com divisão de tráfego, incluindo equipamentos ativos de rede, terminais e componentes IoT.
-Antes de certas aulas existem também **um conjunto de laboratórios** que devem ser feitos para que possam ser esclarecidas as duvidas durante as aulas. Estes laboratórios estão enquadrados nos trabalhos práticos da unidade curricular.
+Existem vários trabalhos a serem realizados para alunos em **avaliação continua**. 
+- Nas aulas teóricas os alunos deverão escolher **um paper de investigação cientifica** sobre temas da cadeira (Networking/IoT) e apresentar um resumo  para a turma. 
+- Antes de certas aulas existem também **um conjunto de laboratórios** que devem ser feitos para que possam ser esclarecidas as duvidas durante as aulas. Estes laboratórios estão enquadrados nos trabalhos práticos da unidade curriculae não são avaliados.
+- Nas aulas práticas existem **um cojunto de trabalhos práticos, de acordo com as matérias lecionadas nos laboratórios**, incluindo um trabalho final de maior envergadura que consiste em implementar uma rede multi-serviço com divisão de tráfego, incluindo equipamentos ativos de rede, terminais e componentes IoT.
+
 
 ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas fora do ambiente de aula***
 
