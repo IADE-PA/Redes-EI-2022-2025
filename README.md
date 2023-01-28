@@ -42,7 +42,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 - Inclui a utilização de máquinas virtuais e do simulador de rede Cisco Packet Tracer (ver [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). Existe um [roteiro](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md) para as aulas Packet Tracer;
 - Apoio a realização do trabalho prático sobre Networking/IoT em Cisco Packet Tracer.
 
-### Planeamento PREVISTO (pode sofrer ALTERAÇÕES!!!)[#planeamento]
+### Planeamento PREVISTO (pode sofrer ALTERAÇÕES!!!)
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 | 01 | 30 jan | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
