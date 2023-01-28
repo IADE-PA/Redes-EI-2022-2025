@@ -13,7 +13,7 @@ Os alunos deverão escolher três papers que tenham sido apresentados numa das c
 Poderão procurar por várias keyworks para obterem resultados relevantes para a unidade curricular, entre os quais “IoT”, “5G”, “Wifi 6”, “Smart Cities”, “Smart Transportation”, “Smart Homes”, “Smart Grid”, etc.
 
 As apresentações serão feitas com recurso a um powerpoint (ou semelhante) e com um tempo de apresentação de 20 minutos, durante as aulas.
-O processo de escolha decorre até 10 de fevereiro, para tal deverão preencher a atividade adequada no Canvas: https://mycampus.pt/courses/7345/assignments/8737
+O processo de escolha decorre até 10 de fevereiro, para tal deverão preencher a [Tarefa](https://mycampus.pt/courses/13292/assignments/23224) adequada no Canvas.
 
 Dos três papers escolhidos, o Docente escolherá um que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar) e que se iniciam  na semana de 20 de fevereiro em LIFO (Last In First Out).
 
