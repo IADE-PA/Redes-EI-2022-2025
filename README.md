@@ -142,16 +142,16 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4
 
 A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=592821258&single=true) 
 
-## Resumo do Calendário da UC
+## Resumo do Calendário da UC e Tarefas
 *(em atualização)*
-- até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos (ver tarefa necessária para preencher)
+- até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23224)
 - até 12 de fevereiro - Publicação [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=467007833&single=true) da distribuição dos temas e datas de apresentação
-- até 10 de fevereiro - Constituição dos grupos (ver tarefa necessária para preencher)
+- até 10 de fevereiro - Constituição dos grupos [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23225)
 - a partir de 20 de fevereiro iniciam-se as apresentações dos trabalhos teóricos 
-- até 31 de março - Trabalho de Routing I - Ponderação: 7,5%
-- até 21 de abril - Trabalho de Routing II - Ponderação: 7,5%
-- até 5 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 5%
-- até 19 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 25%
+- até 31 de março - Trabalho de Routing I - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23226)
+- até 21 de abril - Trabalho de Routing II - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23227)
+- até 5 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23228)
+- até 19 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 25% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23229)
 - semana de 22 e 26 de maio - Apresentações dos Trabalhos Cisco Packet Tracer / IoT 
 
 ## Bibliografia
