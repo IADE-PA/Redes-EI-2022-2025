@@ -95,7 +95,7 @@ Informações uteis:
 - Para desligar as máquinas pode fazer `shutdown -h now`; restart `shutdown -r now`
 
 # Laboratórios
-Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/README.md#Planeamento PREVISTO (pode sofrer ALTERAÇÕES!!!)) as datas.
+Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/README.md) as datas.
 
 ## 1. Laboratório 1: Cisco Packet Tracer I 
 
