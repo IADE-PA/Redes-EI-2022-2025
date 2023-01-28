@@ -76,7 +76,7 @@ Recorde-se que, segundo o regulamento "*(...)A avaliação contínua é aque
 durante o período letivo, refletindo uma permanente interação entre o docente e o estudante, através da realização de vários instrumentos de avaliação, executados individualmente e/ou em grupo.*"
 
 Sendo assim:
-- Ainda segundo o regulamento: *Os elementos de avaliação utilizados têm de contemplar uma ponderação igual ou superior a 4O% referente à avaliação individual no cálculo da classificação final da unidade curricular*. **Na UC o valor para o teste escrito será de 40%**.
+- Ainda segundo o regulamento: *Os elementos de avaliação utilizados têm de contemplar uma ponderação igual ou superior a 4O% referente à avaliação individual no cálculo da classificação final da unidade curricular*.
 - A realização do teste escrito será realizado durante as aulas na data marcada na calendarização da UC
 
 Nesta UC são instrumentos da avaliação contínua:
