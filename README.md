@@ -54,7 +54,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 | 07 | 13 mar | TCP/IP endereçamento IPv4 (inclui subnetting); ***Laboratório 4 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** |
 | 08 | 20 mar | ***Semana sem aulas*** |
 | 0 | 27 mar | Inicio do estudo de alguns Protocolos TCP/IP; **Entrega do trabalho Routing-I**  |
-|   | 03 abr | *Páscoa*|
+|   | 03 abr | **Páscoa**|
 | 09 | 10 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje; **Apresentação do trabalho Routing-I** |
 | 10 | 17 abr | ***Laboratório 5 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***; **Entrega do trabalho Routing-II** |
 | 11 | 24 abr | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5; **Apresentação do trabalho Routing-II** |
