@@ -5,6 +5,9 @@
 ## Entregáveis
 Entregue um **documento em PDF** com o **nome Gxx-RoutingI.pdf** 
 
+## Apresentação
+Deverá apresentar a implementação nas suas máquinas virtuais durante a aula indicada na calendarização.
+
 ## Identificação
 
 A **primeira página** do documento deve ter as seguintes informções, no seguinte formato:
