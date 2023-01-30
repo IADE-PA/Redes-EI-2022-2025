@@ -4,7 +4,7 @@
 
 **Enunciado temporário. Pode sofrer alterações**
 
-# A Smart Campus: Smart Factory & Smart Buildings
+# A Smart Campus: Smart Building with a Smart Factory
 
 ## Implementação de todas as componentes de uma rede de suporte a uma Empresa, incluindo equipamentos IoT associados aos edificios inteligentes da empresa.
 
@@ -56,6 +56,7 @@ VLAN 3 - srv06 – 172.16.3.13 - Servidor de Registo de IoT - para todos os equi
 ```
 11.	Sendo edifícios inteligentes, devem ser implementadas as seguintes funcionalidades:
 -	Gerir a **temperatura** interna em cada edifício através de um display adequado.
+-	Capacidade de manter a **temperatura** ideal em cada edificio.
 -	Os edifícios têm **sistema de deteção de incêndios** em todos os pisos. Caso seja detetado um incendio deve tocar uma **sirene** e **ligado o sistema de extinção de incêndios**.
 -	Os edifícios têm **sensores de CO2**. Uma vez detetado um valor superior a 75% as **janelas devem ser abertas** e a **extração de ar deve ser ligada**. Todo o sistema deve ser desligado quando voltarem a valores inferior a 60%.
 -	Os edifícios têm **sensores de mónoxido de carbono**. Uma vez detetado as **janelas devem ser abertas** e a **extração de ar deve ser ligada**
@@ -65,7 +66,7 @@ VLAN 3 - srv06 – 172.16.3.13 - Servidor de Registo de IoT - para todos os equi
 **Notas:**
 - Colocar alguns computadores pessoais a título de exemplo em cada piso. Não é, obviamente, necessário todos os computadores pessoais.
 - Quaisquer informações ausentes podem ser resolvidas pelos alunos, justificando as suas escolhas na apresentação a realizar.
-- Todos os equipamentos devem fazer ping a todos os outros (não são implementados mecanismos de segurança que, em produção, deveriam ser considerados).
+- Todos os equipamentos devem fazer ping a todos os outros (não são implementados mecanismos de segurança que, mas em produção deveriam ser considerados).
 - A configuração de todos os equipamentos deve ser efetuada em dual stack (Ipv4 e IPv6).
 
 **Datas:**
