@@ -59,9 +59,9 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 | 10 | 17 abr | ***Laboratório 5 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***; **Entrega do trabalho Routing-II** |
 | 11 | 24 abr | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5; **Apresentação do trabalho Routing-II** |
 | 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***; **Entrega Trabalho Captura de pacotes com Wireshark/tcpdump** | 
-| 13 | 08 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível); **Apresentação do Trabalho Captura de pacotes com Wireshark/tcpdump** |
-| 14 | 15 mai | **Teste Escrito** ; **Entrega do trabalho final em Packet Tracer Redes/IOT** |
-| 15 | 22 mai | **Apresentações dos trabalhos práticos Networking/IoT** |
+| 13 | 08 mai | **T01: 09/05 - Teste Escrito** ; **T02: 10/05 - Teste Escrito** Apoio ao trabalho prático Networking/IoT; **Apresentação do Trabalho Captura de pacotes com Wireshark/tcpdump**; **Entrega do trabalho final em Packet Tracer Redes/IOT** |
+| 14 | 15 mai | **Apresentações dos trabalhos práticos Networking/IoT** |
+| 15 | 22 mai | ...|
 
 ### Sumários
 Os sumários das aulas podem ser consultados *aqui* (brevemente disponível)
