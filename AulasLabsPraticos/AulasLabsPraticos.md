@@ -100,7 +100,7 @@ Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https
 ## 1. Laboratório 1: Cisco Packet Tracer I 
 
 - Apresentação do interface da ferramenta Cisco Packet Tracer
-- Primeiras configurações do [Roteiro do Packet Tracer para as aulas Práticas](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md)
+- Primeiras configurações do [Roteiro do Packet Tracer para as aulas Práticas](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md)
 
 ## 2. Laboratório 2: Cisco Packet Tracer II 
 
