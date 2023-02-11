@@ -104,19 +104,19 @@ Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https
 
 ## 2. Laboratório 2: Cisco Packet Tracer II 
 
-Continuação das configurações do [Roteiro do Packet Tracer para as aulas Práticas](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md)
+Continuação das configurações do [Roteiro do Packet Tracer para as aulas Práticas](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md)
 
 ## 3. Laboratório 3: Routing I 
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
+Seguir os [seguintes](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
 
 ## 4. Laboratório 4: Routing II
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/RoutingII.md) passos para a realização do laboratório.
+Seguir os [seguintes](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/RoutingII.md) passos para a realização do laboratório.
 
 ## 5. Laboratório 5: Captura de Tráfego numa Rede 
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md) passos para a realização do laboratório.
+Seguir os [seguintes](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md) passos para a realização do laboratório.
 
 ## 6. Laboratório 6: Cisco Packet Tracer III
 
