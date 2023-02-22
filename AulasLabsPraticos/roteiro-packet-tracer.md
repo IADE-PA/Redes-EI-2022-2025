@@ -70,7 +70,7 @@ ip address 192.168.200.1 255.255.255.0
 ```
 ### Ativar administrativamente o interface físico Gigabitethernet 0/0
 ```
-interface gigabitethernet 0
+interface gigabitethernet 0/0
 no shutdown	Interfaces nos routers estão em “shutdown” por omissão, por isso têm que ser ativados manualmente
 ```
 
