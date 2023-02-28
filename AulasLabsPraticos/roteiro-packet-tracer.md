@@ -233,6 +233,7 @@ Para a rede interna do ISP (onde vamos ligar dois servidores) também iremos usa
 ```
 interface gigabitethernet 0/0
 ip address 201.1.1.1 255.255.255.0
+no shutdown
 ```
 
 #### Servidores na rede ISP
