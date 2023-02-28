@@ -238,7 +238,7 @@ ip address 201.1.1.1 255.255.255.0
 #### Servidores na rede ISP
 
 Alem do interface de rede no Router, também se devem configurar os endereços IP (manualmente) nos dois servidores dessa rede.
-Para tal devem-se configurar os seguintes endereços: **primeiro servidor: 200.1.1.10, netmask: 255.255.255.0, gateway: 200.1.1.1**; **segundo servidor: 200.1.1.11, netmask: 255.255.255.0 gateway: 200.1.1.1**;
+Para tal devem-se configurar os seguintes endereços: **primeiro servidor: 201.1.1.10, netmask: 255.255.255.0, gateway: 201.1.1.1**; **segundo servidor: 201.1.1.11, netmask: 255.255.255.0 gateway: 201.1.1.1**;
 
 Nessa altura deve ser testada a conectividade desses servidores para o router da rede (ping).
 
