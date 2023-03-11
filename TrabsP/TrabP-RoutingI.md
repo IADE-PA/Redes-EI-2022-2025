@@ -27,7 +27,7 @@ Inicie a resposta às questões na **segunda página**. Identifique claramente a
 
 Considere o seguinte diagrama de rede:
 
-<img src="RoutingI-fig1.png" alt="Fig 1" width="500"/>
+<img src="/AulasLabsPraticos/RoutingI-fig1.png" alt="Fig 1" width="500"/>
 
 Para todas as questões utilize sempre os nomes dos servidores indicados no diagrama e respetivos identificadores das placas de rede (nicX). No caso de desejar usar os identificadores dos interfaces de rede que as máquinas virtuais do projeto SEED utilizam, faça uma relação entre o que é os nicX e o novo nome que utiliza.
 
