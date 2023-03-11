@@ -14,8 +14,10 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 ### Horário 
 | Dia | Hora | Turma |
 | :-----------: | :-----------: | :----------: |
-| ??? | ??? - ??? | T1 |
-| ??? | ??? - ??? | T2 |
+| Ter | 14:00 - 15:30 | T1 |
+| Qua | 16:00 - 17:30 | T2 |
+| Qui | 10:30 - 12:00 | T2 |
+| Qui | 17:00 - 18:30 | T1 |
 
 ## Programa
 ### Aulas Teóricas
