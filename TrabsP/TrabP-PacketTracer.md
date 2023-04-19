@@ -12,7 +12,7 @@
 1.	O objetivo principal é concretizar uma rede de uma empresa que interliga vários equipamentos de rede e equipamentos IoT (Internet of Things).
 2.	A empresa está sediada num *Campus* de dimensão significativa no Oeste de Portugal.
 3. Atualmente é composta por três contruções (edifício A, fábrica F e datacenter D) mas o *Campus* tem capacidade para um crescimento significativo em número de edificios;
-4.  A utilização de equipamentos IoT para gerir os espaços é fundamental para a empresa, com vista a contribuir positivamente para o meio ambiente e ao mesmo tempo reduzir os custos e aumentar a qualidade de vida no *Campus*. Esse foi também o motivo de ter feito um quarto pequeno edificio exclusivamente para Datacenter.
+4.  A utilização de equipamentos IoT para gerir os espaços é fundamental para a empresa, com vista a contribuir positivamente para o meio ambiente e ao mesmo tempo reduzir os custos e aumentar a qualidade de vida no *Campus*. Esse foi também o motivo de ter feito um edificio exclusivamente para Datacenter.
 5.	O primeiro edifício (A) têm 5 andares que aloja um total de ~150 funcionários, estando previsto a duplicação do número de funcionários nos próximos 3 anos, caso a evolução da empresa se mantenha nos atuais níveis. 
 6.	Tendo o edifício uma largura de cerca de 80m, o seu backbone é duplo, ou seja, dois bastidores por piso (devidamente espaçados), interligados a um lugar central no piso 1. 
 7.	A Fábrica (F) além de infraestrutura de rede tem um elevado numero de equipamentos IoT, uns wired e outros wireless, necessitando de infraestrutura de rede capaz de suportar todos esses equipamentos.
