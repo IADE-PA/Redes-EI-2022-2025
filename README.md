@@ -119,6 +119,8 @@ Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
 Teste Escrito unico a realizar na data marcada na calendarização (penultima semana de aulas).
 
+**CLASSIFICAÇÔES DE AVALIAÇÂO CONTINUA: acompanhe** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=3433762&single=true) 
+
 ## Avaliação Final
 
 Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita, ou outros elementos, sobre a matéria toda lecionada. Esta avaliação final ainda não está completamente definida mas, ou terá também elementos distintos da prova escrita, ou terá 60% do valor teórico/prático escrito (portanto relacionado com os laboratórios e trabalhos práticos).
