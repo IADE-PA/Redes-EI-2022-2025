@@ -42,7 +42,7 @@ VLAN 22 – 172.16.22.0/24 – 2001:1:1:22::/64 – Marketing/Comunicação
 VLAN 23 – 172.16.23.0/24 – 2001:1:1:23::/64 – Direção
 VLAN 25 – 172.16.25.0/24 – 2001:1:1.25::/64 – Equipamentos portáteis / rede sem fios
 VLAN 30 – 172.16.30.0/24 – 2001:1:1:30::/64 – Laboratórios (ou algo adequado ao negócio)
-VLAN 50 – 172.16.50.0/24 – 2001:1:1:51::/64 – Investigação (ou algo adequado ao negócio)
+VLAN 50 – 172.16.50.0/24 – 2001:1:1:50::/64 – Investigação (ou algo adequado ao negócio)
 VLAN 60 - 172.165.60.0/22 - 2001:1:1:60::/64 - Fábrica
 ```
 10.	Devem ser utilizados vários servidores no Datacenter:
